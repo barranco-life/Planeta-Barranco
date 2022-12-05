@@ -8,4 +8,6 @@ A partir de este norte, se diseñaran colectivamente y ejecutarán todas las acc
 
 Bienvenidos todos al Barranco 2.0 💗
 
+[Guías](GuiaBarranco.md)
+
 Por donde comenzar? Por aquí https://github.com/barranco-life/Planeta-Barranco/discussions
