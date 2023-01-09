@@ -31,7 +31,9 @@ Organización activista sin fines de lucro que tiene por objeto promocionar y di
  - **Cumpleaños**
  - **Relacionadores y Puntos de Preventa**
 
+Otras guías:
 
+ - **[Post-Producción](PostProduccion.md)**
 
 ## Condiciones Generales
 
